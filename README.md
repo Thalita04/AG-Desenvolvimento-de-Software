@@ -4,7 +4,7 @@ export default function App() {
   return <AppNavigator />;
 }
 
-Integrantes do trabalho de AG APP 3
+Integrantes do trabalho de AG Desenvolvimento de Software
 
 -Ellen Lopes De Souza
 -Laura Brilhante Torrano
